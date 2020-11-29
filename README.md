@@ -18,6 +18,7 @@
 
 ### Technology Stack:
 
+<p>
 <img align="left" width="45" alt="html"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 <img align="left" width="45" alt="css"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -37,9 +38,14 @@
 <img align="left" width="45" alt="docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
 <img align="left" width="45" alt="aws" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
+</p>
 
+&nbsp;&nbsp;
+&nbsp;&nbsp;
 &nbsp;&nbsp;
 
 <p align="left">
+  
 ![](https://komarev.com/ghpvc/?username=rastellid&color=green)
+
 </p>
