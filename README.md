@@ -40,4 +40,6 @@
 
 &nbsp;&nbsp;
 
+<p align="left">
 ![](https://komarev.com/ghpvc/?username=rastellid&color=green)
+</p>
